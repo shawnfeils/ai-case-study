@@ -39,14 +39,7 @@ Albert Mehrabian once famously concluded that communication is 55% nonverbal, 38
 
 * **Multi-Modal AI Agents:** Lastly, Vurvey has a multi-modal agent workflow. Recent research conducted with Adidas sought to gather feedback on shoe preferences. Those preferences were then fed through a series of AI agents -- one to code the videos and generate themes, one (or more including personas) to compare the research themes with insights from a variety of additional sources and make recommendations, one to use the recommendations to create two-dimensional renderings of the new shoe designs, and finally one to translate the two-dimension designs into a three-dimensional (and AR ready) image. And then those new designs can be put back into another round of research. Start to finish, what used to take six to nine months can now be completed in less than two weeks.
 
-Vurvey’s intended customers are businesses and organizations that are looking to gather insights and innovate1. This includes companies that want to understand their customers better, test new concepts, and co-create with their users1. They serve a wide range of industries, from consumer goods to technology and beyond.
-* What specific problem is the company or project trying to solve?
-
-* Who is the company's intended customer? Is there any information about the market size of this set of customers?
-
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+Vurvey’s intended customers are businesses and organizations that are looking to gather insights and innovate. This includes companies that want to understand their customers better, test new concepts, and co-create with their users. They serve a wide range of industries, from consumer goods to technology and beyond.
 
 ## Landscape
 
